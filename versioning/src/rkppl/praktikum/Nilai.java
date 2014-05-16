@@ -44,4 +44,8 @@ public class Nilai {
 	public String toString() {
 		return mhs.getNrp().concat("-").concat(matkul.getNamaMatkul()).concat("-").concat(Double.toString(nilai));
 	}
+	
+	public void test() {
+		
+	}
 }
